@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:23.10
 LABEL Description="Build environment"
 
 ENV HOME /root
